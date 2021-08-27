@@ -27,12 +27,14 @@ variablle2 = random.randint(1,4)
 
 if variablle2 != variablle1:
     print("you wrong")
+elif variablle2 > variablle1:
+    print("your number is biger", variablle2)
 else:
-    print("you win")    
+    print("your number is smaller", variablle2)
     score = score +1
  #this score is avariable has a integer and this = equel give the variable job
 
-variablle1 =int(input("guse a number? "))
+variable1 = int(input("guse a number? "))
 # The variable1 it has integer and question the question is gues a numbe?
 
 variablle2 = random.randint(1,4)
