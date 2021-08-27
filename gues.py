@@ -6,7 +6,7 @@ print("I am Abdullahi.\nI use to write it.\nwellcome to use it")
 variablle = input("Do you wan to play: ")
 answer = "yes"
 
-if variablle =! yes:
+if variablle != "yes":
     print("you are done")
     quit()
 #The mining of if it is first   
@@ -25,20 +25,20 @@ variablle1 =int(input("guse a number? "))
 variablle2 = random.randint(1,4)
 # The random a library randint it is chapter
 
-if variablle2 =! variablle1:
+if variablle2 != variablle1:
     print("you wrong")
 else:
     print("you win")    
     score = score +1
- this score is avariable has a integer and this = equel give the variable job
+ #this score is avariable has a integer and this = equel give the variable job
 
 variablle1 =int(input("guse a number? "))
-# The variable1 it has integer and question the question isgues a numbe?
+# The variable1 it has integer and question the question is gues a numbe?
 
 variablle2 = random.randint(1,4)
 # The random a library randint it is chapter
 
-if variablle2 =! variablle1:
+if variablle2 != variablle1:
     print("you wrong")
 else:
     print("you win")    
@@ -51,14 +51,14 @@ variablle1 =int(input("guse a number? "))
 variablle2 = random.randint(1,4)
 # The random a library randint it is chapter
 
-if variablle2 =! variablle1:
+if variablle2 != variablle1:
     print("you wrong")
 else:
     print("you win")    
     score = score +1
- this score is avariable has a integer and this = equel give the variable job
+ #this score is avariable has a integer and this = equel give the variable job
 
- this score is avariable has a integer and this = equel give the variable job
+# this score is avariable has a integer and this = equel give the variable job
 
 variablle1 =int(input("guse a number? "))
 # The variable1 it has integer and question the question isgues a numbe?
@@ -66,12 +66,12 @@ variablle1 =int(input("guse a number? "))
 variablle2 = random.randint(1,4)
 # The random a library randint it is chapter
 
-if variablle2 =! variablle1:
+if variablle2 != variablle1:
     print("you wrong")
 else:
     print("you win")    
     score = score +1
- this score is avariable has a integer and this = equel give the variable job
+# this score is avariable has a integer and this = equel give the variable job
 
 variablle1 =int(input("guse a number? "))
 # The variable1 it has integer and question the question isgues a numbe?
@@ -79,7 +79,7 @@ variablle1 =int(input("guse a number? "))
 variablle2 = random.randint(1,4)
 # The random a library randint it is chapter
 
-if variablle2 =! variablle1:
+if variablle2 != variablle1:
     print("you wrong")
 else:
     print("you win")    
