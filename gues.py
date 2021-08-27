@@ -42,8 +42,10 @@ variablle2 = random.randint(1,4)
 
 if variablle2 != variablle1:
     print("you wrong")
+elif variablle2 > variable1:
+    print("you number is biger", variablle2)
 else:
-    print("you win")    
+    print("you number is smaller", variablle2)
     score = score +1
 # t this score is avariable has a integer and this = equel give the variable job
 
@@ -55,8 +57,10 @@ variablle2 = random.randint(1,4)
 
 if variablle2 != variablle1:
     print("you wrong")
+elif variablle2 < variable1:
+    print("you number is biger", variablle2)
 else:
-    print("you win")    
+    print("your number is smaller", variablle2 )    
     score = score +1
  #this score is avariable has a integer and this = equel give the variable job
 
